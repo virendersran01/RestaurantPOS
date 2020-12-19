@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">el ajuste</string>
+    <string name="suppliers">Proveedoras</string>
+    <string name="customers">Clientes</string>
+    <string name="pos">POS</string>
+    <string name="expense">Gastos</string>
+    <string name="report">Reporte</string>
+    <string name="all_orders">Todas las órdenes</string>
+    <string name="all_sales">Todas las ventas</string>
+    <string name="daily">Diario</string>
+    <string name="monthly">Mensual</string>
+    <string name="yearly">Anual</string>
+    <string name="customer_name">Nombre del cliente</string>
+    <string name="customer_cell">Celda de cliente</string>
+    <string name="customer_email">Correo electrónico del cliente</string>
+    <string name="customer_address">Dirección del cliente</string>
+    <string name="add_customer">Agregar cliente</string>
+    <string name="enter_customer_name">Ingrese el nombre del cliente</string>
+    <string name="enter_customer_cell">Ingrese la celda del cliente</string>
+    <string name="enter_customer_address">Ingrese la dirección del cliente</string>
+    <string name="customer_successfully_added">Cliente agregado con éxito</string>
+
+    <string name="all_customer">Toda cliente</string>
+    <string name="no_customer_found">Ningún cliente encontrado!</string>
+    <string name="all_suppliers">Todos los proveedores</string>
+    <string name="no_suppliers_found">No se encontraron proveedores!</string>
+
+    <string name="add_suppliers">Añadir proveedores</string>
+    <string name="enter_suppliers_name">Ingrese el nombre del proveedor</string>
+    <string name="enter_suppliers_contact_person_name">Ingrese el nombre de la persona de contacto de los proveedores</string>
+    <string name="enter_suppliers_cell">Introduzca la celda de proveedores</string>
+    <string name="enter_valid_email">Ingrese un email valido</string>
+    <string name="enter_suppliers_address">Ingrese la dirección del proveedor</string>
+    <string name="suppliers_successfully_added">Proveedores agregadas exitosamente</string>
+    <string name="failed">Fallida</string>
+
+    <string name="product_name_cannot_be_empty">El nombre del producto no puede estar vacío!</string>
+    <string name="product_code_cannot_be_empty">El código del producto no puede estar vacío!</string>
+    <string name="product_category_cannot_be_empty">La categoría del producto no puede estar vacía!</string>
+    <string name="product_sell_price_cannot_be_empty">El precio de venta del producto no puede estar vacío!</string>
+    <string name="product_supplier_cannot_be_empty">El proveedor del producto no puede estar vacío!</string>
+    <string name="product_weight_cannot_be_empty">El peso del producto no puede estar vacío!</string>
+    <string name="product_successfully_added">Producto agregado con éxito</string>
+    <string name="something_went_wrong">Algo salió mal</string>
+
+
+
+    <string name="add_product">Agregar producto</string>
+    <string name="product_details">Detalles de producto</string>
+    <string name="product_code">Código de producto</string>
+    <string name="product_description">Descripción del producto</string>
+    <string name="unit_product_sell_price">Precio de venta del producto unitario</string>
+    <string name="product_sell_price">Precio de venta del producto</string>
+    <string name="product_weight">Peso del Producto</string>
+    <string name="select_product_weight_unit">Seleccionar unidad de peso del producto</string>
+    <string name="product_weight_unit">Unidad de peso del producto</string>
+    <string name="select_supplier">Seleccionar proveedor</string>
+    <string name="product_supplier">Proveedor de productos</string>
+    <string name="choose_product_image">Elegir imagen del producto</string>
+    <string name="database_backup">Copia de seguridad de la base de datos</string>
+    <string name="database_import">Importar base de datos</string>
+
+
+    <string name="year_2020">Año 2020</string>
+    <string name="total_sales">Ventas totales</string>
+    <string name="search_here">Busca aquí. . . .</string>
+    <string name="no_order_found">No se encontró orden</string>
+    <string name="no_product_found">Ningún producto encontrado</string>
+    <string name="submit_order">Orden de envio</string>
+    <string name="all_sales_report">Informe de todas las ventas</string>
+    <string name="all_expense_report">Informe de todos los gastos</string>
+    <string name="monthly_sales_graph">Gráfico de ventas mensuales</string>
+    <string name="monthly_expense_graph">Gráfico de gastos mensuales</string>
+    <string name="no_data_found">Datos no encontrados</string>
+    <string name="shop_information">Información de la tienda</string>
+    <string name="data_backup">Copias de seguridad</string>
+    <string name="shop_name">Nombre de tienda</string>
+    <string name="shop_contact_number">Número de contacto de la tienda</string>
+    <string name="shop_email">Comprar correo electrónico</string>
+    <string name="shop_address">Dirección de la tienda</string>
+    <string name="currency_symbol">Símbolo de moneda</string>
+    <string name="shop_currency">Comprar moneda</string>
+    <string name="edit">Editar</string>
+    <string name="update_information">Actualizar información</string>
+    <string name="product_category">categoria de producto</string>
+    <string name="cancel">Cancelar</string>
+    <string name="payment">PAGO</string>
+    <string name="submit">ENVIAR</string>
+    <string name="add_to_cart">Añadir al carrito</string>
+    <string name="product_name">nombre del producto</string>
+    <string name="weight">Peso</string>
+    <string name="price">Precio</string>
+
+
+    <string name="supplier_name">Nombre del proveedor</string>
+    <string name="supplier_contact_person">Persona de contacto del proveedor</string>
+
+    <string name="supplier_cell">Celda de proveedor</string>
+
+    <string name="supplier_email">Correo electrónico del proveedor</string>
+
+    <string name="supplier_address">Dirección del proveedor</string>
+
+    <string name="add_supplier">Añadir proveedor</string>
+    <string name="monthly_expense_in_graph">Gastos mensuales en gráfico</string>
+    <string name="year">Año</string>
+    <string name="monthly_expense_report">Informe de gastos mensuales</string>
+    <string name="total_expense">Gasto total:</string>
+    <string name="monthly_sales_report">Informe mensual de ventas</string>
+    <string name="all_expense">Todos los gastos</string>
+    <string name="shop_name_cannot_be_empty">El nombre de la tienda no puede estar vacío</string>
+    <string name="shop_contact_cannot_be_empty">El contacto de la tienda no puede estar vacío</string>
+    <string name="shop_address_cannot_be_empty">La dirección de la tienda no puede estar vacía</string>
+    <string name="shop_currency_cannot_be_empty">La moneda de la tienda no puede estar vacía</string>
+    <string name="shop_information_updated_successfully">Información de la tienda actualizada con éxito</string>
+    <string name="enter_local_database_backup_name">Ingrese el nombre de la copia de seguridad de la base de datos local</string>
+    <string name="yes">si</string>
+    <string name="no">No</string>
+    <string name="unable_to_create_directory_retry">No se puede crear directorio. Procesar de nuevo</string>
+    <string name="database_restore">Restauración de la base de datos:</string>
+    <string name="unable_to_restore_retry">Incapaz de restaurar. Procesar de nuevo</string>
+    <string name="backup_folder_not_present">Carpeta de respaldo no presente</string>
+    <string name="all_product">Todo el producto</string>
+    <string name="product_cart">Carrito de producto</string>
+    <string name="no_product_in_cart">No hay productos en el carrito</string>
+    <string name="select_payment_method">SELECCIONE EL MÉTODO DE PAGO</string>
+    <string name="select_order_type">SELECCIONE TIPO DE PEDIDO</string>
+    <string name="select_customer">SELECCIONE AL CLIENTE</string>
+    <string name="order_history">Historial de pedidos</string>
+    <string name="order_details">Detalles del pedido</string>
+    <string name="total_price">Precio total:</string>
+    <string name="add_expense">Añadir gastos</string>
+    <string name="product_removed_from_cart">Producto retirado del carrito</string>
+    <string name="backup_completed_successfully">Copia de seguridad completada con éxito</string>
+    <string name="unable_to_backup_database_retry">No se puede hacer una copia de seguridad de la base de datos. Procesar de nuevo</string>
+    <string name="database_Import_completed">Importación de base de datos completada</string>
+    <string name="unable_to_import_database_retry">No se puede importar la base de datos. Procesar de nuevo</string>
+    <string name="want_to_delete_customer">¿Quieres eliminar a la cliente?</string>
+    <string name="customer_deleted">Cliente eliminada</string>
+    <string name="note">Nota:</string>
+    <string name="want_to_delete_expense">¿Quieres eliminar gastos?</string>
+    <string name="expense_deleted">Gastos eliminados</string>
+    <string name="order_id">Solicitar ID:</string>
+    <string name="payment_method">Método de pago:</string>
+    <string name="order_type">Tipo de orden:</string>
+    <string name="want_to_delete_supplier">¿Quieres eliminar al proveedor?</string>
+    <string name="supplier_deleted">Proveedor eliminado</string>
+    <string name="quantity">Cantidad:</string>
+    <string name="date">Fecha:</string>
+    <string name="supplier">Proveedora: </string>
+    <string name="sell_price">Precio de venta:</string>
+    <string name="want_to_delete_product">¿Quieres eliminar el producto?</string>
+    <string name="product_deleted">Producto eliminado</string>
+    <string name="product_added_to_cart">Producto agregado al carrito</string>
+    <string name="product_already_added_to_cart">Producto ya agregado al carrito</string>
+    <string name="product_added_to_cart_failed_try_again">¡Producto agregado al carrito fallido! Inténtalo de nuevo</string>
+    <string name="press_once_again_to_exit">Presione una vez más para salir!</string>
+    <string name="order_deleted">Orden eliminada</string>
+    <string name="want_to_delete_order">¿Quieres eliminar el pedido?</string>
+    <string name="type_something_to_search">Escribe algo para buscar</string>
+    <string name="expense_name_cannot_be_empty">El nombre del gasto no puede estar vacío</string>
+    <string name="expense_amount_cannot_be_empty">El monto del gasto no puede estar vacío</string>
+    <string name="expense_successfully_added">Gastos añadidos con éxito</string>
+
+    <string name="qr_barcode_scanner">QR o escáner de código de barras</string>
+    <string name="camera_permission">Permiso de cámara requerido</string>
+    <string name="export_data_to_excel">Exportar datos a Excel</string>
+    <string name="import_from_excel">Importar desde Excel</string>
+    <string name="data">Datos</string>
+    <string name="export_all_data_to_excel">Exportar todos los datos a Excel</string>
+    <string name="data_export_fail">Error de exportación de datos</string>
+    <string name="data_successfully_exported">Datos exportados exitosamente</string>
+    <string name="data_exporting_please_wait">Exportación de datos. Por favor espera. . .</string>
+    <string name="no_file_found">Archivo no encontrado</string>
+    <string name="data_importing_please_wait">Importación de datos. Por favor espera. . .</string>
+    <string name="data_successfully_imported">Datos importados exitosamente</string>
+    <string name="data_import_fail">Error de importación de datos</string>
+
+    <string name="error">Error</string>
+    <string name="order_receipt">Recibo de pedido</string>
+    <string name="print">Impresión</string>
+    <string name="share">Compartir</string>
+    <string name="open_pdf">Abrir PDF</string>
+    <string name="open_with_external_pdf_reader">Abierto con lector externo de pdf</string>
+    <string name="generate_pdf_receipt">Recibo PDF</string>
+
+
+
+    <string name="edit_customer">Editar cliente</string>
+    <string name="edit_suppliers">Editar proveedores</string>
+    <string name="expense_name">Nombre del gasto</string>
+    <string name="expense_note_if_any">Nota de gastos (si corresponde)</string>
+    <string name="expense_note">Nota de gastos</string>
+    <string name="expense_amount">Cantidad de gastos</string>
+    <string name="expense_date">Fecha de gastos</string>
+    <string name="expense_time">Tiempo de gasto</string>
+    <string name="edit_expense">Editar gasto</string>
+    <string name="update_successfully">Actualizar correctamente</string>
+
+    <string name="categories">Categorias</string>
+    <string name="category_name">Nombre de la categoría</string>
+    <string name="category_deleted">Categoría eliminada</string>
+    <string name="add_category">añadir categoría</string>
+    <string name="enter_category_name">Ingrese el nombre de la categoría</string>
+    <string name="category_added_successfully">Categoría añadida con éxito</string>
+    <string name="update_category">Actualizar categoría</string>
+    <string name="category_updated">Categoría actualizada</string>
+    <string name="edit_category">Editar categoria</string>
+
+
+    <string name="payment_method_deleted">Método de pago eliminado</string>
+    <string name="want_to_delete">¿Quieres eliminar?</string>
+    <string name="all_payment_method">Todo el método de pago</string>
+    <string name="payment_method_name">Nombre del método de pago</string>
+    <string name="add_payment_method">Añadir método de pago</string>
+    <string name="enter_payment_method_name">Ingrese el nombre del método de pago</string>
+    <string name="successfully_added">Añadida exitosamente</string>
+    <string name="update_payment_method">Actualizar método de pago</string>
+    <string name="successfully_updated">Actualizado exitosamente</string>
+    <string name="payment_methods">Método de pago</string>
+
+
+
+    <string name="food_items">Alimentos</string>
+    <string name="password">Contraseña</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="login">INICIAR SESIÓN</string>
+    <string name="please_enter_phone_number">Por favor ingrese el número de teléfono</string>
+    <string name="please_enter_password">Por favor, ingrese contraseña</string>
+    <string name="invalid_information">Informacion invalida</string>
+    <string name="login_successful">Inicio de sesión exitosa</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="all_users">Todas las usuarias</string>
+    <string name="user_deleted">Usuario eliminada</string>
+    <string name="user_name">Nombre de usuario</string>
+    <string name="add_user">Agregar usuario</string>
+    <string name="user_type">Tipo de usuario</string>
+    <string name="select_user_type">SELECCIONE TIPO DE USUARIO</string>
+    <string name="please_enter_user_name">Por favor ingrese el nombre de usuario</string>
+    <string name="please_select_user_type">Por favor seleccione el tipo de usuario</string>
+    <string name="user_already_exist_with_this_phone_number">El usuario ya existe con este número de teléfono</string>
+    <string name="update_user">Actualizar usuario</string>
+    <string name="edit_user">editar usuario</string>
+    <string name="you_cant_delete_Admin">¡No puedes eliminar admin!</string>
+    <string name="you_dont_have_permission_to_access_this_page">No tienes permiso para acceder a esta página</string>
+    <string name="about_us">Sobre nosotros</string>
+    <string name="want_to_logout_from_app">¿Desea cerrar sesión desde la aplicación?</string>
+    <string name="delete">ELIMINAR</string>
+    <string name="tax">Impuesto</string>
+    <string name="tax_in_percentage">Impuesto en porcentaje (%)</string>
+    <string name="total_tax">Total impuestos</string>
+    <string name="sub_total">Total parcial:</string>
+    <string name="discount">Descuento:</string>
+    <string name="discount_cant_be_greater_than_total_price">El descuento no puede ser mayor que el precio total</string>
+    <string name="net_sales">Las ventas netas</string>
+    <string name="total_discount">Descuento total</string>
+    <string name="kitchen_receipt">Recibo de cocina</string>
+    <string name="table_number">Numero de tabla</string>
+    <string name="order_success">Pedido exitoso</string>
+    <string name="order_successfully_done">Orden realizada con éxito</string>
+
+</resources>

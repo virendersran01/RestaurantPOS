@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">সেটিংস </string>
+    <string name="suppliers">সাপ্লাইয়ার্স</string>
+    <string name="customers"> কাস্টমার </string>
+    <string name="pos">পস </string>
+    <string name="expense">ব্যয় </string>
+    <string name="report">রিপোর্ট </string>
+    <string name="all_orders">সকল অর্ডার </string>
+    <string name="all_sales">সকল বিক্রয় </string>
+    <string name="daily">দৈনিক </string>
+    <string name="monthly">মাসিক </string>
+    <string name="yearly">বাৎসরিক</string>
+    <string name="customer_name">কাস্টমারের নাম </string>
+    <string name="customer_cell">কাস্টমারের মোবাইল </string>
+    <string name="customer_email">কাস্টমারের ইমেইল </string>
+    <string name="customer_address">কাস্টমারের ঠিকানা </string>
+    <string name="add_customer">কাস্টমার যুক্ত করুন </string>
+    <string name="enter_customer_name">কাস্টমারের নাম লিখুন </string>
+    <string name="enter_customer_cell">কাস্টমারের মোবাইল নং লিখুন </string>
+    <string name="enter_customer_address">কাস্টমারের ঠিকানা লিখুন </string>
+    <string name="customer_successfully_added">কাস্টমার সফলভাবে যুক্ত হয়েছে </string>
+    <string name="all_customer">সকল কাস্টমার </string>
+    <string name="no_customer_found">কোন কাস্টমার পাওয়া যায়নি </string>
+    <string name="all_suppliers">সকল সাপ্লাইয়ারস </string>
+    <string name="no_suppliers_found">সাপ্লাইয়ারস পাওয়া যায়নি </string>
+
+    <string name="add_suppliers">সাপ্লাইয়ারস যুক্ত করুন </string>
+    <string name="enter_suppliers_name">সাপ্লাইয়ারসের না লিখুন </string>
+    <string name="enter_suppliers_contact_person_name">সাপ্লাইয়ারসের যোগাযোগ ব্যাক্তির নাম লিখুন </string>
+    <string name="enter_suppliers_cell">সাপ্লাইয়ারসের মোবাইল নং লিখুন </string>
+    <string name="enter_valid_email">সঠিক ইমেইল লিখুন </string>
+    <string name="enter_suppliers_address">সাপ্লাইয়ারসের ঠিকানা লিখুন </string>
+    <string name="suppliers_successfully_added">সাপ্লাইয়ারস সফলভাবে যুক্ত হয়েছে </string>
+    <string name="failed">কার্যটি হয়নি  </string>
+    <string name="product_name_cannot_be_empty">পণ্যের নাম লিখুন!</string>
+    <string name="product_code_cannot_be_empty">পণ্যের কোড লিখুন! </string>
+    <string name="product_category_cannot_be_empty">পণ্যের ক্যাটাগরি লিখুন </string>
+    <string name="product_sell_price_cannot_be_empty">পণ্যের বিক্রয় মূল্য </string>
+    <string name="product_supplier_cannot_be_empty">পণ্যের সাপ্লাইয়ারস </string>
+    <string name="product_weight_cannot_be_empty">পণ্যেয়ের ওজন </string>
+    <string name="product_successfully_added">পণ্য সফলভাবে যুক্ত হয়েছে  </string>
+    <string name="something_went_wrong">ভুল হচ্ছে </string>
+
+
+
+
+    <string name="select_supplier">সাপ্লাইয়রস নির্বাচন </string>
+    <string name="product_supplier">পণ্যের সাপ্লাইয়ারস </string>
+    <string name="choose_product_image">ছবি নির্বাচন করুন </string>
+    <string name="add_product">পণ্য যুক্ত করুন</string>
+    <string name="product_details">পণ্যের বিস্তারিত </string>
+    <string name="product_name">পণ্যের নাম </string>
+
+    <string name="product_code">পণ্যের কোড </string>
+
+    <string name="product_category">পণ্যের ক্যাটাগরি </string>
+
+    <string name="product_description">পণ্যের বিবরণ</string>
+
+
+
+    <string name="unit_product_sell_price">পণ্যের একক বিক্রয় মূল্য</string>
+    <string name="product_sell_price">পণ্যের বিক্রয় মূল্য </string>
+
+    <string name="product_weight">পণ্যের ওজন </string>
+
+    <string name="select_product_weight_unit">পণ্যের ওজন একক নির্বাচন করুন </string>
+    <string name="product_weight_unit">পণ্যের ওজন একক </string>
+
+
+
+    <string name="update_information">তথ্য আপডেট করুন </string>
+    <string name="database_backup">ডাটাবেজ ব্যাকআপ  </string>
+    <string name="database_import">ডাটাবেজ ইম্পোর্ট</string>
+    <string name="search_here">খুজুন . . . .</string>
+    <string name="year_2020">বৎসর ২০২০ </string>
+    <string name="total_sales">মোট বিক্রয়: </string>
+    <string name="no_data_found">কোন তথ্য নেই </string>
+
+
+    <string name="no_order_found">কোন অর্ডার নেই </string>
+
+
+
+    <string name="no_product_found">কোন পণ্য নেই </string>
+    <string name="submit_order">সাবমিট অর্ডার </string>
+
+    <string name="all_sales_report">সকল বিক্রয়ের রিপোর্ট </string>
+    <string name="all_expense_report">সকল ব্যয়ের রিপোর্ট </string>
+    <string name="monthly_sales_graph">মাসিক বিক্রয়ের গ্রাফ </string>
+    <string name="monthly_expense_graph">মাসিক ব্যয়ের গ্রাফ </string>
+
+
+    <string name="shop_information">শপের তথ্য </string>
+    <string name="data_backup">ডাটা ব্যাকআপ </string>
+    <string name="shop_name">শপের নাম </string>
+
+    <string name="shop_contact_number">শপের মোবাইল </string>
+
+    <string name="shop_email">শপের ইমেইল</string>
+
+    <string name="shop_address">শপের ঠিকানা </string>
+
+    <string name="currency_symbol">মূদ্রা চিহ্ন </string>
+    <string name="shop_currency">শপ এর মূদ্রা </string>
+    <string name="edit">পরিবর্তন </string>
+    <string name="cancel">বাতিল </string>
+    <string name="payment">পেমেন্ট </string>
+    <string name="submit">সাবমিট </string>
+    <string name="add_to_cart">কার্টে নিন </string>
+    <string name="weight">ওজনঃ  </string>
+    <string name="price">মূল্য </string>
+
+    <string name="supplier_name">সাপ্লাইয়রস এর নাম </string>
+    <string name="supplier_contact_person">সাপালিয়রসের যোগাযোগ ব্যাক্তি </string>
+
+    <string name="supplier_cell">সাপ্লাইয়ারসের মোবাইল </string>
+
+    <string name="supplier_email"> সাপ্লাইয়ারসের ইমেইল </string>
+
+    <string name="supplier_address">সাপ্লাইয়ারসের ঠিকানা </string>
+
+    <string name="add_supplier">সাপ্লাইয়ারস যুক্ত করুন</string>
+    <string name="monthly_expense_in_graph">মাসিক ব্যয়ের গ্রাফ </string>
+    <string name="year">বৎসর </string>
+    <string name="monthly_expense_report">মাসিক ব্যয়ের রিপোর্ট </string>
+    <string name="total_expense">মোট ব্যয়ঃ </string>
+    <string name="monthly_sales_report">মাসিক বিক্রয়ের রিপোর্ট</string>
+    <string name="all_expense">সকল ব্যয় </string>
+    <string name="shop_name_cannot_be_empty">শপের নাম লিখুন </string>
+    <string name="shop_contact_cannot_be_empty">শপের যোগাযোগ ব্যক্তির নাম লিখুন </string>
+    <string name="shop_address_cannot_be_empty">শপের ঠিকানা লিখুন </string>
+    <string name="shop_currency_cannot_be_empty">মূদ্রা লিখুন </string>
+    <string name="shop_information_updated_successfully">শপের তথ্য সফলভাবে পরিবর্তন হয়েছে  </string>
+    <string name="enter_local_database_backup_name">ডাটাবেজ ব্যাকাপ এর নাম লিখুন </string>
+    <string name="yes">হ্যাঁ </string>
+    <string name="no">না </string>
+    <string name="unable_to_create_directory_retry">আবার চেষ্টা করুন  </string>
+    <string name="database_restore">ডাটাবেজ রিষ্টোর :</string>
+    <string name="unable_to_restore_retry">আবার চেষ্টা করুন </string>
+    <string name="backup_folder_not_present">ব্যাকআপ ফোল্ডার পাওয়া যায়নি </string>
+    <string name="all_product">সকল পণ্য </string>
+    <string name="product_cart">পণ্য কার্ট </string>
+    <string name="no_product_in_cart">কার্টে কোনা পণ্য নেই </string>
+    <string name="select_payment_method">পেমেন্ট এর টাইপ নির্বাচন </string>
+    <string name="select_order_type">অর্ডার টাইপ নির্বাচন </string>
+    <string name="select_customer">কাস্টমার নির্বাচন </string>
+    <string name="order_history">পূর্বের অর্ডার </string>
+    <string name="order_details">অর্ডারের বিস্তারিত </string>
+    <string name="total_price">মোট মূল্য: </string>
+    <string name="add_expense">ব্যয় যুক্ত করুন </string>
+    <string name="product_removed_from_cart">পণ্য কার্ট থেকে বাদ দেয়া হয়েছে </string>
+    <string name="backup_completed_successfully">ব্যাকআপ সফলভাবে নেয়া হয়েছে </string>
+    <string name="unable_to_backup_database_retry">ডাটাবেজ ব্যাকআপ নেয়া যাচ্ছে না  </string>
+    <string name="database_Import_completed">ডাটাবেজ ইম্পোর্ট হয়েছে </string>
+    <string name="unable_to_import_database_retry">ডাটাবেজ ইম্পোর্ট করা যাচ্ছে না </string>
+    <string name="want_to_delete_customer">কাস্টমার ডিলেট করতে চান ?</string>
+    <string name="customer_deleted">কাস্টমার ডিলেট</string>
+    <string name="note">নোট : </string>
+    <string name="want_to_delete_expense">ব্যয় ডিলেট করতে চান ?</string>
+    <string name="expense_deleted">ব্যয় ডিলেট </string>
+    <string name="order_id">অর্ডার আইডি :</string>
+    <string name="payment_method">পেমেণ্ট মেথড:</string>
+    <string name="order_type">অর্ডার টাইপ:</string>
+    <string name="want_to_delete_supplier">সাপ্লাইয়ারস ডিলেট করতে চান  ?</string>
+    <string name="supplier_deleted">সাপ্লাইয়ারস ডিলেট </string>
+    <string name="quantity">পরিমান :</string>
+    <string name="date">তারিখ :</string>
+    <string name="supplier">সাপ্লাইয়ারস : </string>
+    <string name="sell_price">বিক্রয় মূল্য :</string>
+    <string name="want_to_delete_product">পণ্য ডিলেট করতে চান ?</string>
+    <string name="product_deleted">পণ্য ডিলেট </string>
+    <string name="product_added_to_cart">পণ্যটি কার্টে যুক্ত হল </string>
+    <string name="product_already_added_to_cart">পণ্যটি কার্টে আছে </string>
+    <string name="product_added_to_cart_failed_try_again">পণ্য কার্টে যুক্ত করা যায়নি </string>
+    <string name="press_once_again_to_exit">আবার প্রেস করুন অ্যাপ থেকে বের হওয়ার জন্য </string>
+    <string name="order_deleted">অর্ডার ডিলেট </string>
+    <string name="want_to_delete_order">অর্ডার ডিলেট করতে চান ?</string>
+    <string name="type_something_to_search">কি খুজছেন লিখুন </string>
+    <string name="expense_name_cannot_be_empty">ব্যয়ের নাম লিখুন </string>
+    <string name="expense_amount_cannot_be_empty">ব্যয়ের মূল্য লিখুন </string>
+    <string name="expense_successfully_added">ব্যয় সফলভাবে যুক্ত হয়েছে </string>
+
+    <string name="qr_barcode_scanner">QR অথবা Barcode স্ক্যানার </string>
+    <string name="camera_permission">ক্যামেরা পারমিশন প্রয়োজন </string>
+    <string name="export_data_to_excel">ডাটা এক্সেলে সংরক্ষন  </string>
+    <string name="import_from_excel">এক্সেল থেকে ডাটা ইম্পোর্ট </string>
+    <string name="data"> তথ্য </string>
+    <string name="export_all_data_to_excel">সকল ডাটা এক্সেলে সংরক্ষন </string>
+    <string name="data_export_fail">ডাটা সংরক্ষন হয়নি </string>
+    <string name="data_successfully_exported">ডাটা সফলভাবে সংরক্ষন হয়েছে </string>
+    <string name="data_exporting_please_wait">ডাটা সংরক্ষন হচ্ছে। অপেক্ষা করুন </string>
+    <string name="no_file_found">ফাইল পাওয়া যায়নি  </string>
+    <string name="data_importing_please_wait">ডাটা ইম্পোর্ট হচ্ছে। অপেক্ষা করুন . . .</string>
+    <string name="data_successfully_imported">ডাটা সফলভাবে ইম্পোর্ট হয়েছে </string>
+    <string name="data_import_fail">ডাটা ইম্পোর্ট হয়নি </string>
+    <string name="error">ভুল হয়েছে </string>
+    <string name="order_receipt">অর্ডার রিসিপ্ট</string>
+    <string name="print">প্রিন্ট </string>
+    <string name="share">শেয়ার </string>
+    <string name="open_pdf">পিডিএফ খুলুন </string>
+    <string name="open_with_external_pdf_reader">অতিরিক্ত পিডিএফ রিডারের মাধ্যমে </string>
+    <string name="generate_pdf_receipt"> পিডিএফ রেসিপ্ট </string>
+
+    <string name="edit_customer">কাস্টমারের তথ্য পরিবর্তন </string>
+    <string name="edit_suppliers">সাপ্লাইর্সের তথ্য পরিবর্তন </string>
+    <string name="expense_name">ব্যয়ের নাম </string>
+    <string name="expense_note_if_any">ব্যয়ের নোট ( যদি থাকে )</string>
+    <string name="expense_note">ব্যয়ের নোট </string>
+    <string name="expense_amount">ব্যয়ের মূল্য </string>
+    <string name="expense_date">ব্যয়ের তারিখ </string>
+    <string name="expense_time">ব্যয়ের সময় </string>
+    <string name="edit_expense">ব্যয়ের তথ্য পরিবর্তন </string>
+    <string name="update_successfully">সফলভাবে আপডেট হয়েছে </string>
+    <string name="categories">ক্যাটাগরি </string>
+    <string name="category_name">ক্যাটাগরি এর নাম </string>
+    <string name="category_deleted">ক্যাটাকগরি ডিলেট </string>
+    <string name="add_category">ক্যাটাগরি যুক্ত করুন </string>
+    <string name="enter_category_name">ক্যাটাগরি এর নাম লিখুন </string>
+    <string name="category_added_successfully">ক্যাটাগরি সফলভাবে যুক্ত হয়েছে</string>
+    <string name="update_category">আপডেট ক্যাটাগরি </string>
+    <string name="category_updated">ক্যাটাগরি আপডেট হয়েছে </string>
+    <string name="edit_category">ক্যাটাগরি পরিবর্তন </string>
+    <string name="payment_method_deleted">পেমেণ্ট মেথড ডিলেট হয়েছে </string>
+    <string name="want_to_delete">ডিলেট করতে চান ?</string>
+    <string name="all_payment_method">সকল পেমেন্ট পদ্ধতি </string>
+    <string name="payment_method_name">পেমেন্ট মেথডের নাম </string>
+    <string name="add_payment_method">পেমেন্ট মেথড যুক্ত করুন </string>
+    <string name="enter_payment_method_name">পেমেন্ট মেথডের নাম লিখুন </string>
+    <string name="successfully_added">সফলভাবে যুক্ত হয়েছে </string>
+    <string name="update_payment_method">পেমেন্ট মেথড আপাডেট </string>
+    <string name="successfully_updated">সফলভাবে হয়েছে </string>
+    <string name="payment_methods">পেমেন্ট মেথড</string>
+
+
+    <string name="food_items">খাদ্য তালিকা</string>
+    <string name="password">পাসওয়ার্ড </string>
+    <string name="phone_number">ফোন নাম্বর </string>
+    <string name="login">লগিন </string>
+    <string name="please_enter_phone_number">ফোন নাম্বার লিখুন </string>
+    <string name="please_enter_password">পাসওয়ার্ড লিখুন </string>
+    <string name="invalid_information">ভুল তথ্য </string>
+    <string name="login_successful">লগিন সফল হয়েছে </string>
+    <string name="logout">লগ আউট </string>
+    <string name="all_users">সকল ব্যবহারকারী </string>
+    <string name="user_deleted">ব্যবহারকারী ডিলেট হয়েছে </string>
+    <string name="user_name">ব্যবহারকারীর নাম </string>
+    <string name="add_user">ব্যবহারকারী যুক্ত করুন  </string>
+    <string name="user_type">ব্যাবহারকারীর ধরন </string>
+    <string name="select_user_type">ব্যবহারকারীর ধরন নির্বাচন</string>
+    <string name="please_enter_user_name">ব্যবহারকারীর নাম লিখুন </string>
+    <string name="please_select_user_type">ব্যবহারকারীর ধরন নির্বাচন</string>
+    <string name="user_already_exist_with_this_phone_number">এই ফোন নম্বরটি সহ ব্যবহারকারী ইতিমধ্যে বিদ্যমান</string>
+    <string name="update_user">ব্যবহারকারী আপডেট করুন</string>
+    <string name="edit_user">ব্যবহারকারী সম্পাদনা করুন</string>
+    <string name="you_cant_delete_Admin">আপনি আডমিন কে মুছতে পারবেন না!</string>
+    <string name="you_dont_have_permission_to_access_this_page">আপনার প্রবেশ করার অনুমতি নেই</string>
+    <string name="about_us">আমাদের সম্পর্কে </string>
+    <string name="want_to_logout_from_app">অ্যাপ থেকে লগআউট করতে চান?</string>
+    <string name="delete">মুছে ফেলা</string>
+    <string name="tax">ট্যাক্স </string>
+    <string name="tax_in_percentage">ট্যাক্স শতকরা  (%)</string>
+    <string name="total_tax">মোট ট্যাক্স </string>
+    <string name="sub_total">সাব টোটাল:</string>
+    <string name="discount">ডিসকাউন্ট:</string>
+    <string name="discount_cant_be_greater_than_total_price">ছাড় মোট মূল্যের চেয়ে বেশি হতে পারে না</string>
+    <string name="net_sales">নেট বিক্রয়</string>
+    <string name="total_discount">মোট ছাড় </string>
+    <string name="kitchen_receipt">রান্নাঘরের রিসিপ্ট </string>
+    <string name="table_number">টেবিল নাম্বার </string>
+    <string name="order_success">অর্ডার সফল </string>
+    <string name="order_successfully_done">অর্ডার সফল হয়েছে </string>
+
+</resources>

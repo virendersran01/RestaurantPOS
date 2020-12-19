@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.restaurantpos">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:name=".utils.MultiLanguageApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".about.AboutActivity"/>
+        <activity android:name=".settings.users.EditUserActivity" />
+        <activity android:name=".settings.users.AddUserActivity" />
+        <activity android:name=".settings.users.UsersActivity" />
+        <activity android:name=".login.LoginActivity" />
+        <activity android:name=".settings.payment_method.EditPaymentMethodActivity" />
+        <activity android:name=".settings.payment_method.AddPaymentMethodActivity" />
+        <activity android:name=".settings.payment_method.PaymentMethodActivity" />
+        <activity android:name=".settings.categories.EditCategoryActivity" />
+        <activity android:name=".settings.categories.AddCategoryActivity" />
+        <activity android:name=".settings.categories.CategoriesActivity" />
+        <activity android:name=".expense.EditExpenseActivity" />
+        <activity android:name=".suppliers.EditSuppliersActivity" />
+        <activity android:name=".customers.EditCustomersActivity" />
+        <activity android:name=".product.EditProductScannerViewActivity" />
+        <activity android:name=".pdf_report.ViewPDFActivity" />
+        <activity android:name=".pos.ScannerActivity" />
+        <activity android:name=".product.ScannerViewActivity" />
+        <activity android:name=".product.EditProductActivity" />
+        <activity android:name=".settings.backup.BackupActivity" />
+        <activity android:name=".settings.shop.ShopInformationActivity" />
+        <activity android:name=".report.ExpenseGraphActivity" />
+        <activity android:name=".report.ExpenseReportActivity" />
+        <activity android:name=".expense.AddExpenseActivity" />
+        <activity android:name=".settings.SettingsActivity" />
+        <activity android:name=".expense.ExpenseActivity" />
+        <activity android:name=".report.GraphReportActivity" />
+        <activity android:name=".report.SalesReportActivity" />
+        <activity android:name=".report.ReportActivity" />
+        <activity android:name=".orders.OrderDetailsActivity" />
+        <activity android:name=".orders.OrdersActivity" />
+        <activity android:name=".pos.ProductCart" />
+        <activity android:name=".pos.PosActivity" />
+        <activity android:name=".product.AddProductActivity" />
+        <activity android:name=".product.ProductActivity" />
+        <activity android:name=".suppliers.AddSuppliersActivity" />
+        <activity android:name=".suppliers.SuppliersActivity" />
+        <activity android:name=".customers.AddCustomersActivity" />
+        <activity android:name=".customers.CustomersActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" />
+        </provider>
+
+        <!-- For Admob -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_application_id" />
+    </application>
+
+</manifest>

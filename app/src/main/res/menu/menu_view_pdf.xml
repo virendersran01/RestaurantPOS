@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_print"
+        android:orderInCategory="100"
+        android:title="@string/print"
+        android:icon="@drawable/ic_print"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="101"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_open_pdf"
+        android:orderInCategory="102"
+        android:icon="@drawable/ic_external"
+        android:title="@string/open_pdf"
+        app:showAsAction="always" />
+</menu>

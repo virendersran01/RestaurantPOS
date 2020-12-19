@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/translation"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="always">
+        <menu>
+
+
+            <item
+                android:id="@+id/local_french"
+                android:icon="@drawable/france"
+                android:title="@string/text_french" />
+
+
+            <item
+                android:id="@+id/local_english"
+                android:icon="@drawable/us"
+                android:title="@string/text_english" />
+
+            <item
+                android:id="@+id/local_bangla"
+                android:icon="@drawable/bangladesh"
+                android:title="@string/text_bangla" />
+
+            <item
+                android:id="@+id/local_spanish"
+                android:icon="@drawable/spain"
+                android:title="@string/text_spanish" />
+        </menu>
+    </item>
+</menu>
